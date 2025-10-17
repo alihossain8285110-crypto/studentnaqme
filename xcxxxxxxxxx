@@ -1,15 +1,4 @@
-:root{
-    --bg1: #0f172a;
-    --c1: #ff4d6d;
-    --c2: #ff9a3c;
-    --c3: #ffd66b;
-    --c4: #7be495;
-    --c5: #60a5fa;
-    --glass: rgba(255,255,255,0.06);
-    --glass-2: rgba(255,255,255,0.04);
-    --text: #f8fafc;
-    --muted: rgba(248,250,252,0.75);
-}
+
 
 *{box-sizing:border-box}
 html,body{height:100%}
@@ -182,3 +171,4 @@ button:focus, a:focus, input:focus {
 @media (prefers-reduced-motion: reduce){
     *{animation:none!important; transition:none!important}
 }
+
